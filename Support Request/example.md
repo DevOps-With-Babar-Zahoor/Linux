@@ -45,5 +45,6 @@ Error: OSPF neighbor not forming. Please assist in resolving this issue.
 
 #### Screenshots
 
-- [Router Configuration](https://github.com/your-username/your-repo/blob/main/screenshots/router_config.png)
+- [![Router Configuration]https://cloud.githubusercontent.com/aantthony/console-png/blob/master/demo/screenshot.png](https://cloud.githubusercontent.com/aantthony/console-png/blob/master/demo/screenshot.png)
+- your-username/your-repo/blob/main/screenshots/router_config.png)
 - [Error Message](https://github.com/your-username/your-repo/blob/main/screenshots/error_message.png)
