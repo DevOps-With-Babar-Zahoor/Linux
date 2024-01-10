@@ -1,10 +1,10 @@
-### OSPF Numbership number = "12345"
-### Name = "John Doe"
+## OSPF Membership number = "12345"
+## Name = "John Doe"
 
 #### Issue Explanation:
 I encountered an issue while trying to configure OSPF on my router. The routes were not being advertised as expected, and I need assistance in troubleshooting and resolving the problem.
 
-#### URL of Your Screen Recording Video for the Issue
+### URL of Your Screen Recording Video for the Issue
 
 [![Issue Explanation Video](https://img.youtube.com/vi/tGkkjpXzyT4/0.jpg)](https://www.youtube.com/watch?v=vi/tGkkjpXzyT4)
 <!-- 
@@ -44,7 +44,8 @@ Error: OSPF neighbor not forming. Please assist in resolving this issue.
 ```
 
 #### Screenshots
-
-- [![Router Configuration]https://cloud.githubusercontent.com/aantthony/console-png/blob/master/demo/screenshot.png](https://cloud.githubusercontent.com/aantthony/console-png/blob/master/demo/screenshot.png)
+- [![Issue Explanation Video](https://img.youtube.com/vi/tGkkjpXzyT4/0.jpg)](https://img.youtube.com/vi/tGkkjpXzyT4/0.jpg)
+- [![Issue Explanation Video](https://img.youtube.com/vi/tGkkjpXzyT4/0.jpg)]()
+- [![Router Configuration](https://cloud.githubusercontent.com/aantthony/console-png/blob/master/demo/screenshot.png)](https://cloud.githubusercontent.com/aantthony/console-png/blob/master/demo/screenshot.png)
 - your-username/your-repo/blob/main/screenshots/router_config.png)
 - [Error Message](https://github.com/your-username/your-repo/blob/main/screenshots/error_message.png)
