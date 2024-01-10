@@ -6,7 +6,7 @@ I encountered an issue while trying to configure OSPF on my router. The routes w
 
 #### URL of Your Screen Recording Video for the Issue
 
-[![Issue Explanation Video](https://img.youtube.com/vi/vi/tGkkjpXzyT4/0.jpg)](https://www.youtube.com/watch?v=vi/tGkkjpXzyT4)
+[![Issue Explanation Video](https://img.youtube.com/vi/tGkkjpXzyT4/0.jpg)](https://www.youtube.com/watch?v=vi/tGkkjpXzyT4)
 <!-- 
    Example for video URL, so it is displayed correctly. And volunteers can click and play it to get the issue explained by your voice.
    [![Sample Video](https://img.youtube.com/vi/tGkkjpXzyT4/0.jpg)](https://www.youtube.com/watch?v=tGkkjpXzyT4)
