@@ -45,4 +45,4 @@ Error: OSPF neighbor not forming. Please assist in resolving this issue.
 
 #### Screenshots
 
-[![Router Configuration](https://raw.githubusercontent.com/aantthony/console-png/master/demo/screenshot.png)](https://raw.githubusercontent.com/aantthony/console-png/master/demo/screenshot.png)
+[![Router Configuration](https://github.com/aantthony/console-png/blob/master/demo/screenshot.png?raw=true)](https://github.com/aantthony/console-png/blob/master/demo/screenshot.png?raw=true)
