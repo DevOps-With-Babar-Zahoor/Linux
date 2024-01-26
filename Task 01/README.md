@@ -3,7 +3,7 @@
 1. Navigate to your home directory using the cd command.
 1. Create a new directory named "UbuntuAssignment" using the mkdir command.
 1. Move into the newly created directory using the cd command.
-1. Create a new text file named "my_notes.txt" using any text editor vim.
+1. Create a new text file named "my_notes.txt" using any text editor vim or nano.
 1. Write a short note about your experience with Ubuntu or any topic of your choice in the "my_notes.txt" file.
 1. Save and close the text editor.
 1. Display the contents of "my_notes.txt" using the cat or more command.
